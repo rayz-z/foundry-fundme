@@ -1,6 +1,8 @@
+# Getting started
+
 install git and foundry
 
 clone the repo
 
 deploy with:
-forge script script/DeployFundMe.s.sol
+```forge script script/DeployFundMe.s.sol```
